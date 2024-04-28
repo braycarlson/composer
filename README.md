@@ -16,4 +16,4 @@ We offer a few themes, including: Rose Pine, Dracula, Gruvbox, One Dark, and Pap
 
 ## The Collapsable Playlist Panel
 
-![A screenshot of Composer's collapsable playlist panel](asset/visualizer.png?raw=true "playlist panel")
+![A screenshot of Composer's collapsable playlist panel](asset/collapse.png?raw=true "playlist panel")
