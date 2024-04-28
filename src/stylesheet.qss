@@ -1,0 +1,11 @@
+QPushButton {
+    height: 25px;
+}
+
+QDialogButtonBox QPushButton {
+    min-width: 100px;
+}
+
+QDialog QPushButton {
+    min-width: 100px;
+}
