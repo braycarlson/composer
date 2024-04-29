@@ -11,8 +11,8 @@ run
 
 *.7z
 *.bat
-.Debug
-.Release
+*.Debug
+*.Release
 *.sublime-project
 *.sublime-workspace
 *.xlsx
